@@ -10,4 +10,4 @@ I used a extension called Code Runner to run the Javascript file. I used Javascr
 
 # Useful Websites
 
-* [Short tutorial to run js files in visual stufio](https://www.geeksforgeeks.org/how-to-run-javascript-in-visual-studio/)
+* [Short tutorial to run js files in visual studio](https://www.geeksforgeeks.org/how-to-run-javascript-in-visual-studio/)
