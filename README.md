@@ -2,7 +2,7 @@
 
 {This is a Javascript program that prints "Hello World" in the console.}
 
-{The purpose of this project was to make sure I had Visual Studio set up correctly.}
+{The purpose of this project was to make sure I had Visual Studio and Github set up correctly.}
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
