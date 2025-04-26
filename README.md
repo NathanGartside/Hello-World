@@ -2,7 +2,7 @@
 
 This is a Javascript program that prints "Hello World" in the console. The purpose of this project was to make sure I had Visual Studio and Github set up correctly.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/doSG-m5WsOI)
 
 # Development Environment
 
